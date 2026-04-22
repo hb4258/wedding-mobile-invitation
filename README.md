@@ -81,8 +81,8 @@ GitHub 에 push 하고 **Settings → Pages → Deploy from a branch → main / 
 
 ```
 wedding-mobile-invitation/
-├── index.html              # 진입점 (보통 수정 X)
-├── config.js               # ⭐ 개인 정보·설정 — 여기만 수정하면 됨
+├── index.html              # ⭐ 진입점 (수정 필수)
+├── config.js               # ⭐ 개인 정보·설정 (수정 필수)
 ├── .nojekyll               # GitHub Pages 용 (삭제 X)
 ├── .gitignore              # git 에서 제외할 파일 목록
 ├── LICENSE                 # MIT 라이선스
